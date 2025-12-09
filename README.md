@@ -27,6 +27,8 @@ Currently, the only supported way to play the game is with a Keyboard.
 | --------------------------- | -------------------------------------- |
 | Arrow Keys (Left and Right) | Moves the players ship back and forth. |
 | Spacebar                    | Fire main weapon.                      |
+| 'R'                         | Restart the Game.                      |
+
 
 ## Credits
 
@@ -47,3 +49,4 @@ For any issues you encounter, please open a new [GitHub Issue](https://github.co
 ## Questions, Comments, and Suggestions
 
 If you have any questions, comments, or suggestions for future content, please feel free to open a new [GitHub Discussion](https://github.com/aayushmishramechatronics/phaser-space-game/discussions) on this project.
+
