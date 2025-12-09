@@ -7,7 +7,7 @@ const ENEMY_SCORES = {
 };
 
 /**
- * Simple UI component for presenting the players score in the UI of our game.
+ * Simple UI component for presenting the Players Score in the UI of my game.
  */
 export class Score extends Phaser.GameObjects.Text {
   /** @type {number} */
@@ -30,7 +30,6 @@ export class Score extends Phaser.GameObjects.Text {
     this.#score = 0;
     this.setOrigin(0.5);
 
-    // 👇 hide the old center text
     this.setVisible(false);
 
     // initialize HUD score (top-left)
