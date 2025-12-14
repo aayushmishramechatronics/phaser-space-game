@@ -13,7 +13,7 @@ A fun arcade space shooter built with [Phaser 3](https://github.com/photonstorm/
 This project is currently setup to require a very minimal amount of tools to run the web application. The main tools that are needed are:
 
 - IDE (Integrated Development Environment), or any program you can use to edit code.
-  - In the video tutorial series linked above, I use the [VS Code](https://code.visualstudio.com/), and this code base has some out of the box settings and extensions that are recommended for formatting and running the code.
+  - I use the [VS Code](https://code.visualstudio.com/), and this code base has some out of the box settings and extensions that are recommended for formatting and running the code.
 - A local web server, this is needed due to browser security and how we are loading files with the Phaser 3 framework for our game.
   - You can use any local web server you are familiar with, however if you use VS Code, I recommend the following extension [LiveServer by Ritwick Dey](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
@@ -49,4 +49,5 @@ For any issues you encounter, please open a new [GitHub Issue](https://github.co
 ## Questions, Comments, and Suggestions
 
 If you have any questions, comments, or suggestions for future content, please feel free to open a new [GitHub Discussion](https://github.com/aayushmishramechatronics/phaser-space-game/discussions) on this project.
+
 
